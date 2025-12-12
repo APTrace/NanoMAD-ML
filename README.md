@@ -229,9 +229,8 @@ MIT License - see [LICENSE](LICENSE)
 
 ---
 
-## Authors
+## Author
 
 - **Thomas Sarrazin** - PhD researcher, ESRF ID01
-- **Claude (Anthropic)** - AI pair programmer
 
-December 2024
+December 2025
